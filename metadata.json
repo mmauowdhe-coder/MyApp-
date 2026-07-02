@@ -1,0 +1,6 @@
+{
+  "name": "سباركينج زيرو",
+  "description": "محاكي معارك لعبة دراغون بول سباركينج زيرو التفاعلي مع قدرات ومستويات تحول خارقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
